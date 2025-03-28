@@ -21,20 +21,14 @@
 
 ###
 
-<h2 align="left">💻 I Code With</h2>
+<h2 align="left">🛠🔍 My Testing Stack</h2>
 
 ###
 
 <div align="left">
 <p>
-<!-- Selenium -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium logo"/>
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"/>
-<!-- Robot Framework -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" alt="Robot Framework logo"/>
-<!-- HTML -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo"/>
+<!-- Search (Lupa) Icon -->
+<img src="https://cdn-icons-png.flaticon.com/512/622/622669.png" height="40" alt="Search logo"/>
 </p>
 </div>
 
@@ -97,6 +91,6 @@
 <!-- JMeter -->
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo"/>
 <!-- Appium -->
-<img src="https://cdn.worldvectorlogo.com/logos/appium.svg" height="40" alt="Appium logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Appium.png" height="40" alt="Appium logo"/>
 </p>
 </div>
