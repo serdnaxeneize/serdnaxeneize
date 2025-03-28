@@ -49,11 +49,11 @@
 <!-- Figma -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma logo"/>
 <!-- Jira -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo.svg" height="40" alt="Jira logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="Jira logo"/>
 <!-- Rally -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rally_logo.svg/1280px-Rally_logo.svg.png" height="40" alt="Rally logo"/>
+<img src="https://images.squarespace-cdn.com/content/v1/62460a56418af8236d4f3fee/fe3d0fa1-ca0f-4edc-a3e9-3c550d33d894/rally-small%406x.png" height="40" alt="Rally logo"/>
 <!-- Confluence -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Confluence_Logo.svg" height="40" alt="Confluence logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" height="40" alt="Confluence logo"/>
 <!-- AEM -->
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" height="40" alt="AEM logo"/>
 <!-- Photoshop -->
