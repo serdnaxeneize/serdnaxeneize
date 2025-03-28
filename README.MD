@@ -51,12 +51,8 @@
 <img src="https://avatars.githubusercontent.com/u/62218481?s=200&v=4" height="40" alt="Xray logo"/>
 <!-- Copilot -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="GitHub Copilot logo"/>
-<!-- Scrum -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Framework.png" height="40" alt="Scrum logo"/>
-<!-- Kanban -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Kanban_board_explained.png" height="40" alt="Kanban logo"/>
-<!-- UX/UI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/UX_Design_Icon.svg" height="40" alt="UX/UI logo"/>
+<!-- AEM -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc0PntlXgNPk1Va71PTNNaKmG_-6RWlZhZQ&s" height="40" alt="Scrum logo"/>
 <!-- CI/CD -->
 <img src="https://cdn-icons-png.flaticon.com/512/919/919247.png" height="40" alt="CI/CD logo"/>
 <!-- Figma -->
