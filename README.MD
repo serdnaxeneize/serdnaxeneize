@@ -50,7 +50,7 @@
 <!-- Xray -->
 <img src="https://avatars.githubusercontent.com/u/62218481?s=200&v=4" height="40" alt="Xray logo"/>
 <!-- Copilot -->
-<img src="https://github.githubassets.com/images/modules/copilot/copilot-mark.svg" height="40" alt="GitHub Copilot logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="GitHub Copilot logo"/>
 <!-- Scrum -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Scrum_Framework.png" height="40" alt="Scrum logo"/>
 <!-- Kanban -->
