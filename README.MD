@@ -29,12 +29,8 @@
 <p>
 <!-- Selenium -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="Selenium logo"/>
-<!-- Playwright -->
-<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
 <!-- Python -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"/>
-<!-- Pytest -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
 <!-- Robot Framework -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" alt="Robot Framework logo"/>
 <!-- HTML -->
@@ -86,3 +82,12 @@
 📌 Improving **CI/CD pipelines with Jenkins & GitHub Actions**<br>
 📌 Exploring **Cloud Testing (AWS, LambdaTest)**<br>
 </p>
+
+<div align="left">
+<p>
+<!-- Playwright -->
+<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
+<!-- Pytest -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
+</p>
+</div>
