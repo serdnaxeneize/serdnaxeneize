@@ -62,7 +62,7 @@
 <!-- BrowserStack -->
 <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" height="40" alt="BrowserStack logo"/>
 <!-- Xray -->
-<img src="https://avatars.githubusercontent.com/u/62218481?s=200&v=4" height="40" alt="Xray logo"/>
+<img src="https://d8iqbmvu05s9c.cloudfront.net/k3huxfe9vfbic6vuvurwtsvu5ggz" height="40" alt="Xray logo"/>
 <!-- Copilot -->
 <img src="https://brandlogo.org/wp-content/uploads/2024/04/Microsoft-Copilot-Logo.png.webp" height="40" alt="Copilot logo"/>
 <!-- Figma -->
