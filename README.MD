@@ -70,7 +70,7 @@
 <!-- Xray -->
 <img src="https://avatars.githubusercontent.com/u/62218481?s=200&v=4" height="40" alt="Xray logo"/>
 <!-- Copilot -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="GitHub Copilot logo"/>
+<img src="https://brandlogo.org/wp-content/uploads/2024/04/Microsoft-Copilot-Logo.png.webp" height="40" alt="Copilot logo"/>
 <!-- Figma -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma logo"/>
 <!-- Photoshop -->
