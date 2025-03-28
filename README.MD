@@ -97,6 +97,6 @@
 <!-- JMeter -->
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo"/>
 <!-- Appium -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Appium.png" height="40" alt="Appium logo"/>
+<img src="https://cdn.worldvectorlogo.com/logos/appium.svg" height="40" alt="Appium logo"/>
 </p>
 </div>
