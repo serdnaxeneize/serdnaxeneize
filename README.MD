@@ -67,8 +67,12 @@
 <img src="https://brandlogo.org/wp-content/uploads/2024/04/Microsoft-Copilot-Logo.png.webp" height="40" alt="Copilot logo"/>
 <!-- Figma -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma logo"/>
+<!-- AEM -->
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" height="40" alt="AEM logo"/>
 <!-- Photoshop -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="Photoshop logo"/>
+<!-- Illustrator -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="40" alt="Photoshop logo"/>
 </p>
 </div>
 
