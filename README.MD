@@ -28,6 +28,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" alt="Robot Framework logo"/>
 <!-- Playwright -->
 <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
+<!-- Html -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo"/>
 </p>
 </div>
 
@@ -52,7 +54,7 @@
 <!-- Copilot -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/640px-Octicons-mark-github.svg.png" height="40" alt="GitHub Copilot logo"/>
 <!-- AEM -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc0PntlXgNPk1Va71PTNNaKmG_-6RWlZhZQ&s" height="40" alt="Scrum logo"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJc0PntlXgNPk1Va71PTNNaKmG_-6RWlZhZQ&s" height="40" alt="AEM logo"/>
 <!-- CI/CD -->
 <img src="https://cdn-icons-png.flaticon.com/512/919/919247.png" height="40" alt="CI/CD logo"/>
 <!-- Figma -->
