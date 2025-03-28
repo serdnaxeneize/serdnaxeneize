@@ -85,6 +85,7 @@
 📌 Learning **Performance Testing (JMeter, k6)**<br>
 📌 Improving **CI/CD pipelines with Jenkins & GitHub Actions**<br>
 📌 Exploring **Cloud Testing (AWS, LambdaTest)**<br>
+📌 Diving into **Mobile Automation Testing with Appium**<br>
 </p>
 
 <div align="left">
@@ -93,5 +94,9 @@
 <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
 <!-- Pytest -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
+<!-- JMeter -->
+<img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo"/>
+<!-- Appium -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Appium.png" height="40" alt="Appium logo"/>
 </p>
 </div>
