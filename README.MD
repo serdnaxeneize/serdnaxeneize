@@ -37,8 +37,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
 <!-- Robot Framework -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" height="40" alt="Robot Framework logo"/>
-<!-- Requests -->
-<img src="https://avatars.githubusercontent.com/u/7556290?s=200&v=4" height="40" alt="Requests logo"/>
 <!-- HTML -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML logo"/>
 </p>
