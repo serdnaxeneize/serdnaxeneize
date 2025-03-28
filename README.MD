@@ -48,6 +48,12 @@
 <img src="https://brandlogo.org/wp-content/uploads/2024/04/Microsoft-Copilot-Logo.png.webp" height="40" alt="Copilot logo"/>
 <!-- Figma -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma logo"/>
+<!-- Jira -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo.svg" height="40" alt="Jira logo"/>
+<!-- Rally -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rally_logo.svg/1280px-Rally_logo.svg.png" height="40" alt="Rally logo"/>
+<!-- Confluence -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Confluence_Logo.svg" height="40" alt="Confluence logo"/>
 <!-- AEM -->
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" height="40" alt="AEM logo"/>
 <!-- Photoshop -->
