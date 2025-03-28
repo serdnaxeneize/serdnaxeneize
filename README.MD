@@ -21,20 +21,7 @@
 
 ###
 
-<h2 align="left">🛠🔍 My Testing Stack</h2>
-
-###
-
-<div align="left">
-<p>
-<!-- Search (Lupa) Icon -->
-<img src="https://cdn-icons-png.flaticon.com/512/622/622669.png" height="40" alt="Search logo"/>
-</p>
-</div>
-
-###
-
-<h2 align="left">🛠️ I Use These Tools</h2>
+<h2 align="left">🔍 My Testing Stack</h2>
 
 ###
 
