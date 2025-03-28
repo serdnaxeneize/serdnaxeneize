@@ -44,7 +44,7 @@
 <!-- Postman -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo"/>
 <!-- Swagger -->
-<img src="https://cdn.worldvectorlogo.com/logos/swagger-1.svg" height="40" alt="Swagger logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png?20170812110931" height="40" alt="Swagger logo"/>
 <!-- BrowserStack -->
 <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" height="40" alt="BrowserStack logo"/>
 <!-- Xray -->
