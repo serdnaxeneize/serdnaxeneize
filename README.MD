@@ -64,7 +64,7 @@
 <!-- Rally -->
 <img src="https://images.squarespace-cdn.com/content/v1/62460a56418af8236d4f3fee/fe3d0fa1-ca0f-4edc-a3e9-3c550d33d894/rally-small%406x.png" height="40" alt="Rally logo"/>
 <!-- Qyrus Automation Tool -->
-<img src="https://www.qyrus.com/wp-content/uploads/2023/02/white-logo.svg" height="40" alt="Qyrus logo"/>
+<img src="https://media.licdn.com/dms/image/v2/D560BAQEUJjYuryuuFQ/company-logo_200_200/company-logo_200_200/0/1683553387704/qyrus_logo?e=2147483647&v=beta&t=T2Joybad-5LC5AFIbm8u-uY62MMufwHrxJFz3-4ElTE" height="40" alt="Qyrus logo"/>
 
 </p>
 </div>
