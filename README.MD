@@ -31,6 +31,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo"/>
 <!-- Selenium Automation Testing -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40" alt="Selenium logo"/>
+<!-- Pytest -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
 <!-- Visual Studio 2022 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo"/>
 <!-- Visual Studio Code -->
@@ -83,8 +85,6 @@
 
 <div align="left">
 <p>
-<!-- Pytest -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
 <!-- Playwright -->
 <img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
 <!-- JMeter -->
