@@ -58,10 +58,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" height="40" alt="Confluence logo"/>
 <!-- AEM -->
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" height="40" alt="AEM logo"/>
-<!-- Photoshop -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="40" alt="Photoshop logo"/>
-<!-- Illustrator -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="40" alt="Photoshop logo"/>
+<!-- Qyrus Automation Tool -->
+<img src="https://qyrus.com/wp-content/uploads/2023/05/Qyrus_Logo.svg" height="40" alt="Qyrus logo"/>
 </p>
 </div>
 
