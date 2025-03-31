@@ -27,6 +27,10 @@
 
 <div align="left">
 <p>
+<!-- Python -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="40" alt="Python logo"/>
+<!-- Selenium Automation Testing -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" height="40" alt="Selenium logo"/>
 <!-- Visual Studio 2022 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo"/>
 <!-- Visual Studio Code -->
@@ -34,6 +38,14 @@
 <!-- Git & GitHub -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo"/>
+<!-- BrowserStack -->
+<img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" height="40" alt="BrowserStack logo"/>
+<!-- Jira -->
+<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="Jira logo"/>
+<!-- Confluence -->
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" height="40" alt="Confluence logo"/>
+<!-- Xray -->
+<img src="https://d8iqbmvu05s9c.cloudfront.net/k3huxfe9vfbic6vuvurwtsvu5ggz" height="40" alt="Xray logo"/>
 <!-- Postman -->
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo"/>
 <!-- Swagger -->
@@ -42,24 +54,18 @@
 <img src="https://cdn-icons-png.flaticon.com/512/919/919247.png" height="40" alt="CI/CD logo"/>
 <!-- Jenkins -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="Jenkins logo"/>
-<!-- BrowserStack -->
-<img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg" height="40" alt="BrowserStack logo"/>
-<!-- Xray -->
-<img src="https://d8iqbmvu05s9c.cloudfront.net/k3huxfe9vfbic6vuvurwtsvu5ggz" height="40" alt="Xray logo"/>
 <!-- Copilot -->
 <img src="https://brandlogo.org/wp-content/uploads/2024/04/Microsoft-Copilot-Logo.png.webp" height="40" alt="Copilot logo"/>
 <!-- Figma -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="40" alt="Figma logo"/>
-<!-- Jira -->
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="40" alt="Jira logo"/>
-<!-- Rally -->
-<img src="https://images.squarespace-cdn.com/content/v1/62460a56418af8236d4f3fee/fe3d0fa1-ca0f-4edc-a3e9-3c550d33d894/rally-small%406x.png" height="40" alt="Rally logo"/>
-<!-- Confluence -->
-<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" height="40" alt="Confluence logo"/>
+
 <!-- AEM -->
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-experience-manager.svg" height="40" alt="AEM logo"/>
+<!-- Rally -->
+<img src="https://images.squarespace-cdn.com/content/v1/62460a56418af8236d4f3fee/fe3d0fa1-ca0f-4edc-a3e9-3c550d33d894/rally-small%406x.png" height="40" alt="Rally logo"/>
 <!-- Qyrus Automation Tool -->
-<img src="https://qyrus.com/wp-content/uploads/2023/05/Qyrus_Logo.svg" height="40" alt="Qyrus logo"/>
+<img src="https://www.qyrus.com/wp-content/uploads/2023/02/white-logo.svg" height="40" alt="Qyrus logo"/>
+
 </p>
 </div>
 
@@ -77,10 +83,10 @@
 
 <div align="left">
 <p>
-<!-- Playwright -->
-<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
 <!-- Pytest -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" height="40" alt="Pytest logo"/>
+<!-- Playwright -->
+<img src="https://playwright.dev/img/playwright-logo.svg" height="40" alt="Playwright logo"/>
 <!-- JMeter -->
 <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="40" alt="JMeter logo"/>
 <!-- Appium -->
